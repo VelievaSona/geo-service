@@ -1,4 +1,4 @@
-package i18nTest;
+package i18n;
 
 import org.junit.jupiter.api.Test;
 import ru.netology.entity.Country;
